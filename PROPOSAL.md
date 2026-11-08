@@ -22,7 +22,7 @@ The user enters a claim. A single LLM agent runs a tool-use loop: it plans searc
 
 1. Web search
 2. Page reader for open pages
-3. Quote extraction
+3. Quote extraction 
 
 ### Evaluation
 
